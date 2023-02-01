@@ -3,6 +3,7 @@ BWD is a CSS Framework, made for web designers to help them coding with css.<br>
 Here you find all classes:<br><br>
 
 <h2>Buttons</h2>
+
 ```
     <button class="btn button-success"> This is a Success Button! </button>
     <button class="btn btn-success-disabled"> This is a disabled Success Button! </button><br>
@@ -24,7 +25,9 @@ Here you find all classes:<br><br>
     <button class="btn btn-yellow"> This is a Yellow Button! </button><br>
     <button class="btn btn-disabled"> This is a Disabled Button! </button><br>
 ```
+
 <h2>Outlined Buttons</h2>
+
 ```
     <button class="btn btn-outline-success"> This is a outlined Success Button! </button>
     <button class="btn btn-outline-success-disabled"> This is a outlined, disabled Success Button! </button><br>
@@ -46,7 +49,9 @@ Here you find all classes:<br><br>
     <button class="btn btn-outline-yellow"> This is a outlined Yellow Button! </button><br>
     <button class="btn btn-outline-disabled"> This is a outlined, Disabled Button! </button><br>
 ```
+
 <h2>Text</h2>
+
 ```
     <text class="txt-white"> Hello </text><br>
     <text class="txt-grey">Hello </text><br>
@@ -73,14 +78,18 @@ Here you find all classes:<br><br>
     <text class="txt-dark-orange">Hello </text>
     <text class="txt-orange">Hello </text><br>
 ```
+
 <h2>Links</h2>
+
 ```
     <text href="#" class="link-main">Link </text><br>
     <text href="#" class="link-sub">Link </text><br>
     <text href="#" class="link-important">Link </text><br>
     <text href="#" class="link-disabled">Link </text><br>
 ```
+
 <h2>Colors</h2>
+
 ```
     <text class="clr blue">I am a blue Color!</text><br>
     <text class="clr light-blue">I am a light-blue Color!</text><br>
