@@ -2,7 +2,7 @@
 BWD is a CSS Framework, made for web designers to help them coding with css.<br>
 Here you find all classes:<br><br>
 
-##Buttons<br>
+##Buttons
     <button class="btn button-success"> This is a Success Button! </button>
     <button class="btn btn-success-disabled"> This is a disabled Success Button! </button><br>
     <button class="btn btn-danger"> This is a Danger Button! </button> 
@@ -22,7 +22,8 @@ Here you find all classes:<br><br>
     <button class="btn btn-blue"> This is a Blue Button! </button><br>
     <button class="btn btn-yellow"> This is a Yellow Button! </button><br>
     <button class="btn btn-disabled"> This is a Disabled Button! </button><br>
-##Outlined Buttons<br>
+    
+##Outlined Buttons
     <button class="btn btn-outline-success"> This is a outlined Success Button! </button>
     <button class="btn btn-outline-success-disabled"> This is a outlined, disabled Success Button! </button><br>
     <button class="btn btn-outline-danger"> This is a outlined Danger Button! </button> 
@@ -43,7 +44,7 @@ Here you find all classes:<br><br>
     <button class="btn btn-outline-yellow"> This is a outlined Yellow Button! </button><br>
     <button class="btn btn-outline-disabled"> This is a outlined, Disabled Button! </button><br>
     
-##Text<br>
+##Text
     <text class="txt-white"> Hello </text><br>
     <text class="txt-grey">Hello </text><br>
     <text class="txt-black">Hello </text><br>
@@ -69,12 +70,13 @@ Here you find all classes:<br><br>
     <text class="txt-dark-orange">Hello </text>
     <text class="txt-orange">Hello </text><br>
 
-##Links<br>
+##Links
     <text href="#" class="link-main">Link </text><br>
     <text href="#" class="link-sub">Link </text><br>
     <text href="#" class="link-important">Link </text><br>
     <text href="#" class="link-disabled">Link </text><br>
-##Colors<br>
+    
+##Colors
     <text class="clr blue">I am a blue Color!</text><br>
     <text class="clr light-blue">I am a light-blue Color!</text><br>
     <text class="clr dark-blue">I am a dark-blue Color!</text><br><br>
