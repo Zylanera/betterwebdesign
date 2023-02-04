@@ -4,7 +4,7 @@ Here you find all classes we have for now:<br><br>
 
 <h2>Buttons</h2>
 
-```
+```html
     <button class="btn button-success"> This is a Success Button! </button>
     <button class="btn btn-success-disabled"> This is a disabled Success Button! </button><br>
     <button class="btn btn-danger"> This is a Danger Button! </button> 
@@ -28,7 +28,7 @@ Here you find all classes we have for now:<br><br>
 
 <h2>Outlined Buttons</h2>
 
-```
+```html
     <button class="btn btn-outline-success"> This is a outlined Success Button! </button>
     <button class="btn btn-outline-success-disabled"> This is a outlined, disabled Success Button! </button><br>
     <button class="btn btn-outline-danger"> This is a outlined Danger Button! </button> 
@@ -52,7 +52,7 @@ Here you find all classes we have for now:<br><br>
 
 <h2>Text</h2>
 
-```
+```html
     <text class="txt-white"> Hello </text><br>
     <text class="txt-grey">Hello </text><br>
     <text class="txt-black">Hello </text><br>
@@ -81,7 +81,7 @@ Here you find all classes we have for now:<br><br>
 
 <h2>Links</h2>
 
-```
+```html
     <text href="#" class="link-main">Link </text><br>
     <text href="#" class="link-sub">Link </text><br>
     <text href="#" class="link-important">Link </text><br>
@@ -90,7 +90,7 @@ Here you find all classes we have for now:<br><br>
 
 <h2>Colors</h2>
 
-```
+```html
     <text class="clr blue">I am a blue Color!</text><br>
     <text class="clr light-blue">I am a light-blue Color!</text><br>
     <text class="clr dark-blue">I am a dark-blue Color!</text><br><br>
