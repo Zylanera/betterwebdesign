@@ -1,5 +1,12 @@
 # <img src="./favicon.png" width="190px"> <br>
 BWD is a CSS Framework, made for web designers to help them coding with css. It's not finished yet, and there will be added more css structures and designs soon.<br>
+<br>
+To use the Framework, paste the following code into the `<header>` section from your .html file:
+
+```html
+<link href="https://cdn.jsdelivr.net/gh/Adrian-Dorbez/betterwebdesign@main/bwd.css" rel="stylesheet">
+```
+
 Here you find all classes we have for now:<br><br>
 
 <h2>Buttons</h2>
