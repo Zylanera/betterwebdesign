@@ -1,0 +1,101 @@
+/*
+ *
+ *
+ *
+ *                                                                               COLORS
+ *
+ *
+ *
+ */
+
+.clr {
+    text-decoration: none;
+}
+
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.orange {
+    color: orange;
+}
+.grey {
+    color: grey;
+}
+.black {
+    color: black;
+}
+.white {
+    color: white;
+}
+.dark {
+    color: rgb(24, 24, 24);
+}
+.purple {
+    color: purple;
+}
+.pink {
+    color: rgb(226, 118, 136);
+}
+
+
+/* LIGHT COLORS */
+.light-blue {
+    color: rgb(67, 116, 189);
+}
+.light-red {
+    color: rgb(255, 86, 86);
+}
+.light-green {
+    color: rgb(96, 212, 96);
+}
+.light-yellow {
+    color: rgb(255, 255, 79);
+}
+.light-orange {
+    color: rgb(255, 190, 70);
+}
+.light-grey {
+    color: rgb(189, 189, 189);
+}
+.light-purple {
+    color: rgb(160, 62, 160);
+}
+.light-pink {
+    color: pink;
+}
+
+
+/* DARK COLORS */
+.dark-blue {
+    color: rgb(27, 75, 138);
+}
+.dark-red {
+    color: rgb(129, 25, 25);
+}
+.dark-green {
+    color: rgb(0, 80, 0);
+}
+.dark-yellow {
+    color: rgb(180, 180, 43);
+}
+.dark-orange {
+    color: rgb(185, 121, 0);
+}
+.dark-grey {
+    color: rgb(80, 80, 80);
+}
+.dark-purple {
+    color: rgb(88, 0, 88);
+}
+.dark-pink {
+    color: rgb(173, 103, 115);
+}

@@ -1,0 +1,19 @@
+/*
+*
+*
+*
+*                                                                               Body
+*
+*
+*
+*/
+
+.body-dark {
+    background-color: #121314;
+    color: white;
+}
+
+.body-light {
+    background-color: rgb(241, 234, 234);
+    color: black;
+}

@@ -1,0 +1,280 @@
+/*
+*
+*
+*
+*                                                                               BUTTONS
+*
+*
+*
+*/
+
+.btn {
+    color: white;
+    border: none;
+    border-radius: 7px;
+
+    margin: 5px;
+
+    height: 25px;
+    width: auto;
+
+    cursor: pointer;
+}
+
+.btn-success {
+    background-color: green;
+    color: white;
+}
+
+.btn-success-disabled {
+    background-color: green;
+    color: white;
+
+    cursor: not-allowed;
+}
+
+.btn-danger {
+    background-color: red;
+    color: white;
+}
+
+.btn-danger-disabled {
+    background-color: red;
+    color: white;
+
+    cursor: not-allowed;
+}
+
+.btn-warning {
+    background-color: rgb(255, 235, 54);
+    color: black;
+}
+
+.btn-warning-disabled {
+    background-color: rgb(255, 235, 54);
+    color: black;
+
+    cursor: not-allowed;
+}
+
+.btn-main {
+    background-color: rgb(35, 117, 240);
+    color: white;
+}
+
+.btn-main-disabled {
+    background-color: rgb(35, 117, 240);
+    color: white;
+
+    cursor: not-allowed;
+}
+
+.btn-sub {
+    background-color: grey;
+    color: white;
+}
+
+.btn-sub-disabled {
+    background-color: grey;
+    color: white;
+
+    cursor: not-allowed;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
+}
+
+.btn-dark {
+    background-color: rgb(43, 43, 43);
+    color: white;
+}
+
+.btn-white {
+    background-color: white;
+    color: black;
+}
+
+.btn-light {
+    background-color: rgb(168, 168, 168)smoke;
+    color: black;
+}
+
+.btn-disabled {
+    background-color: rgba(0, 0, 0, 0.644);
+    color: white;
+
+    cursor: not-allowed;
+
+    border: solid 1px white;
+}
+
+.btn-red {
+    background-color: rgb(185, 57, 57);
+    color: white;
+}
+
+.btn-blue {
+    background-color: rgb(63, 116, 185);
+    color: white;
+}
+
+.btn-green {
+    background-color: rgb(38, 99, 38);
+    color: white;
+}
+
+.btn-yellow {
+    background-color: rgb(255, 208, 78);
+    color: black;
+}
+
+
+/* - - - - - - - - - - - - - - - - - - - - OUTLINED BUTTONS - - - - - - - - - - - - - - - - - */
+
+
+.btn-outline-success {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: green;
+}
+
+.btn-outline-success-disabled {
+    background-color: transparent;
+
+    cursor: not-allowed;
+
+    border: solid 2px;
+    border-color: green;
+}
+
+.btn-outline-danger {
+    background-color: transparent;
+    
+    border: solid 2px;
+    border-color: red;
+}
+
+.btn-outline-danger-disabled {
+    background-color: transparent;
+
+    cursor: not-allowed;
+
+    border: solid 2px;
+    border-color: red;
+}
+
+.btn-outline-warning {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(255, 235, 54);
+}
+
+.btn-outline-warning-disabled {
+    background-color: transparent;
+
+    cursor: not-allowed;
+
+    border: solid 2px;
+    border-color: rgb(255, 235, 54);
+}
+
+.btn-outline-main {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(35, 117, 240);
+}
+
+.btn-outline-main-disabled {
+    background-color: transparent;
+
+    cursor: not-allowed;
+
+    border: solid 2px;
+    border-color: rgb(35, 117, 240);
+}
+
+.btn-outline-sub {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: grey;
+}
+
+.btn-outline-sub-disabled {
+    background-color: transparent;
+
+    cursor: not-allowed;
+
+    border: solid 2px;
+    border-color: grey;
+}
+
+.btn-outline-black {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: black;
+}
+
+.btn-outline-dark {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(43, 43, 43);
+}
+
+.btn-outline-white {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: white;
+}
+
+.btn-outline-light {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(168, 168, 168);
+}
+
+.btn-outline-disabled {
+    background-color: transparent;
+
+    cursor: not-allowed;
+
+    border: solid 2px;
+    border-color: white;
+}
+
+.btn-outline-red {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(185, 57, 57);
+}
+
+.btn-outline-blue {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(63, 116, 185);
+}
+
+.btn-outline-green {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(38, 99, 38);
+}
+
+.btn-outline-yellow {
+    background-color: transparent;
+
+    border: solid 2px;
+    border-color: rgb(255, 208, 78);
+}

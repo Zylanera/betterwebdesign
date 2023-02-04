@@ -1,0 +1,34 @@
+/*
+*
+*
+*
+*                                                                               LINKS
+*
+*
+*
+*/
+
+.link-main {
+    color: rgb(35, 117, 240);
+    text-decoration: underline;
+
+    cursor: pointer;
+}
+.link-sub {
+    color: rgb(95, 95, 95);
+    text-decoration: underline;
+
+    cursor: pointer;
+}
+.link-important {
+    color: rgb(255, 227, 66);
+    text-decoration: underline;
+
+    cursor: pointer;
+}
+.link-disabled {
+    color: grey;
+    text-decoration: underline;
+
+    cursor: not-allowed;
+}

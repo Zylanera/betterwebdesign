@@ -1,0 +1,125 @@
+/*
+*
+*
+*
+*                                                                               TEXT
+*
+*
+*
+*/
+
+/* TEXT ==> WHITE */
+.txt-white {
+    color: white;
+    text-decoration: none;
+}
+
+/* TEXT ==> GREY */
+.txt-grey {
+    color: grey;
+    text-decoration: none;
+}
+
+/* TEXT ==> BLACK */
+.txt-black {
+    color: black;
+    text-decoration: none;
+}
+
+/* TEXT ==> BLUE */
+.txt-light-blue {
+    color: rgb(111, 111, 255);
+    text-decoration: none;
+}
+.txt-dark-blue {
+    color: rgb(0, 0, 126);
+    text-decoration: none;
+}
+.txt-blue {
+    color: blue;
+    text-decoration: none;
+}
+
+/* TEXT ==> RED */
+.txt-light-red {
+    color: rgb(255, 82, 82);
+    text-decoration: none;
+}
+.txt-dark-red {
+    color: rgb(107, 0, 0);
+    text-decoration: none;
+}
+.txt-red {
+    color: red;
+    text-decoration: none;
+}
+
+/* TEXT ==> GREEN */
+.txt-light-green {
+    color: rgb(103, 192, 103);
+    text-decoration: none;
+}
+.txt-dark-green {
+    color: rgb(0, 83, 0);
+    text-decoration: none;
+}
+.txt-green {
+    color: green;
+    text-decoration: none;
+}
+
+/* TEXT ==> PINK */
+.txt-light-pink {
+    color: rgb(243, 116, 226);
+    text-decoration: none;
+}
+.txt-dark-pink {
+    color: rgb(126, 32, 113);
+    text-decoration: none;
+}
+.txt-pink {
+    color: rgb(240, 58, 215);
+    text-decoration: none;
+}
+
+/* TEXT ==> PURPLE */
+.txt-light-purple {
+    color: rgb(202, 78, 202);
+    text-decoration: none;
+}
+.txt-dark-purple {
+    color: rgb(92, 0, 92);
+    text-decoration: none;
+}
+.txt-purple {
+    color: rgb(161, 1, 161);
+    text-decoration: none;
+}
+
+/* TEXT ==> YELLOW */
+.txt-light-yellow {
+    color: rgb(255, 255, 111);
+    text-decoration: none;
+}
+.txt-dark-yellow {
+    color: rgb(170, 170, 0);
+    text-decoration: none;
+}
+.txt-yellow {
+    color: yellow;
+    text-decoration: none;
+}
+
+/* TEXT ==> YELLOW */
+.txt-light-orange {
+    color: rgb(255, 194, 81);
+    text-decoration: none;
+}
+.txt-dark-orange {
+    color: rgb(134, 87, 0);
+    text-decoration: none;
+}
+.txt-orange {
+    color: orange;
+    text-decoration: none;
+}
