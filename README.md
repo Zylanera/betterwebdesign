@@ -1,4 +1,5 @@
-# <img src="./favicon.png" width="190px"> <br>
+<img src="https://img.shields.io/github/license/Adrian-Dorbez/betterwebdesign.svg?style=for-the-badge"> <img src="https://img.shields.io/badge/version-v1.9.3-07?style=for-the-badge"> <img src="https://img.shields.io/github/issues/Adrian-Dorbez/betterwebdesign.svg?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/code-size/Adrian-Dorbez/betterwebdesign.svg?style=for-the-badge"><br>
 BWD is a CSS Framework, made for web designers to help them coding with css. It's not finished yet, and there will be added more css structures and designs soon.<br>
 <br>
 To use the Framework, paste the following code into the `<header>` section from your .html file:
