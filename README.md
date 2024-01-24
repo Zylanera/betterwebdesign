@@ -1,4 +1,4 @@
-OUTDATED!!! The <link> Taks may not work anymore!!!
+OUTDATED!!! The "link" tags may not work anymore!!!
 
 <img src="https://img.shields.io/github/license/Adrian-Dorbez/betterwebdesign.svg?style=for-the-badge"> <img src="https://img.shields.io/badge/version-v1.9.3-07?style=for-the-badge"> <img src="https://img.shields.io/github/issues/Adrian-Dorbez/betterwebdesign.svg?style=for-the-badge">
 <img src="https://img.shields.io/github/languages/code-size/Adrian-Dorbez/betterwebdesign.svg?style=for-the-badge"><br>
